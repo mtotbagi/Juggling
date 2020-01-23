@@ -1,0 +1,10 @@
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\bin\Debug\JugglingApp.exe.config
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\bin\Debug\JugglingApp.exe
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\bin\Debug\JugglingApp.pdb
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.csprojAssemblyReference.cache
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.Form1.resources
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.Properties.Resources.resources
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.csproj.GenerateResource.cache
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.exe
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.pdb
