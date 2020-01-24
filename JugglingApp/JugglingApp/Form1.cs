@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Threading;
 
 namespace JugglingApp
 {
@@ -28,19 +27,21 @@ namespace JugglingApp
         private void button1_Click(object sender, EventArgs e)
         {
             formGraphics.DrawArc(pen, 200, 200, 300, 500, 180, 180);
+            label1.Text = screenWidth.ToString();
+            label2.Text = screenHeight.ToString();
         }
-
+        
         void Draw()
         {
             for (int i = 0; i < 12; i++)
             {
                 if (i % 2 == 0)
                 {
-                    formGraphics.DrawEllipse(pen, 187 + 100 * i, screenHeight * 9 / 10, 25, 25);
+                    formGraphics.DrawEllipse(pen, 100 * i, screenHeight * 9 / 10, 25, 25);
                 }
                 else
                 {
-                    formGraphics.FillEllipse(brush, 187 + 100 * i, screenHeight * 9 / 10, 25, 25);
+                    formGraphics.FillEllipse(brush, 100 * i, screenHeight * 9 / 10, 25, 25);
                 }
             }
         }
