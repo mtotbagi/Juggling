@@ -7,3 +7,4 @@ C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\Juggl
 C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.csproj.GenerateResource.cache
 C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.exe
 C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.pdb
+C:\Users\Marci\Documents\GitHub\Juggling\JugglingApp\JugglingApp\obj\Debug\JugglingApp.csproj.CoreCompileInputs.cache
